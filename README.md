@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👩‍💻 Portfolio - 최지연
 
-<!--
-**choijiye0n/choijiye0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! 성장하는 소프트웨어 개발자를 꿈꾸는 **최지연**입니다.  
+현재 ai학과를 전공하며, **소프트웨어 아키텍처**와 **시스템 구조**에 흥미를 가지고 있습니다.  
+아직 많은 경험은 없지만, 학습 과정에서 얻은 깨달음과 작은 프로젝트를 통해 문제 해결 능력을 키워가고 있습니다.  
 
-Here are some ideas to get you started:
+> 💡 "실패도 경험이다" 라는 마음으로 도전하고 배우는 것을 즐깁니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+
+- **Programming Languages**: C, Python, Java (기초), JavaScript (입문)  
+- **Tools**: Git / Github, VS Code, Eclipse  
+- **Interests**: 운영체제, 컴퓨터 구조, 웹 애플리케이션 개발  
+
+---
+
+## 🚀 Projects
+
+### 1. 컴퓨터 구조 시뮬레이션 과제
+- **기간**: 2025.03 ~ 2025.05  
+- **내용**: 명령어 파이프라인 동작을 시뮬레이션하는 C 프로그램 구현  
+- **역할/기여**: 데이터 해저드 발생 시 스톨 처리 로직 구현  
+- **성장 포인트**:
+  - CPU 내부 동작 원리를 깊이 이해하게 됨  
+  - 디버깅 과정에서 수많은 실패를 겪으며 문제 해결 능력 향상  
+
+---
+
+### 2. 간단한 웹 페이지 제작
+- **기간**: 2024.11 (개인 학습)  
+- **내용**: HTML/CSS/JavaScript를 활용한 자기소개 페이지 제작  
+- **역할/기여**: 디자인부터 코드 작성, Github Pages 배포까지 직접 수행  
+- **성장 포인트**:
+  - 웹 개발의 전체 흐름(프론트엔드 → 배포) 경험  
+  - Github 버전 관리 및 페이지 배포 경험 축적  
+
+---
+
+## 📚 Lessons Learned
+
+- 단순히 코드가 동작하는 것보다 **가독성 있는 코드 작성의 중요성**을 깨달음  
+- Github 사용 초기에 커밋 메시지를 대충 작성 → 협업에서 기록 추적이 어려웠던 경험 →  
+  지금은 **의미 있는 커밋 메시지 작성 습관**을 지향  
+
+---
+
+## 🎯 Future Plan
+
+- 운영체제, 네트워크 등 **CS 기초 지식 강화**  
+- 실제 서비스로 발전할 수 있는 프로젝트 도전 (간단한 웹 앱, 서버 구현 등)  
+- 오픈소스 프로젝트에 작은 기여부터 시작해 실무 경험 확장  
+
+---
+
+## 📫 Contact
+- **Email**: choijiyeon25@naver.com
+- **Github**: [https://github.com/choijiye0n](https://github.com/choijiye0n)
