@@ -69,5 +69,5 @@
 ---
 
 ## 📫 Contact
-- **Email**: choijiyeon25@naver.com
+- **Email**: [choijiyeon25@naver.com](mailto:choijiyeon25@naver.com)  
 - **Github**: [https://github.com/choijiye0n](https://github.com/choijiye0n)
